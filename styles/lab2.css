@@ -3,18 +3,11 @@
 @font-face {
     font-family: "Gothic Red";
     src: url("fonts/FortunaGothicFlorishC.ttf");
-}
-
-@font-face {
+}@font-face {
     font-family: "Deutsche";
     src: url("fonts/DeutschGothic.ttf");
 }
 
-
-@keyframes body-gradient{
-    from {}
-    to {}
-}
 
 body {
           --ofset: 80;
